@@ -1,0 +1,1 @@
+["mini", ["minions", "mini jake paul", "mini", "mini thin", "mini jake paul song", "ministry", "mini food", "mining", "mini gear", "minion song"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+[".noobsandnerds", ["noobsandnerds kodi", "noobsandnerds repo", "noobsandnerds tv portal", "noobsandnerds bob kodi addon"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

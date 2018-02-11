@@ -1,0 +1,1 @@
+[".n", [".net", ".net core", ".n", ".net tutorial", ".net c#", ".net framework tutorial", ".net mvc", ".net developer", ".ne", ".net mvc tutorial"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

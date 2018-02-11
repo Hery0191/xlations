@@ -1,0 +1,1 @@
+["openload.ca", ["openload.net/pair", "openload.net", "openload.net download", "openload.net movies", "cara download openload"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

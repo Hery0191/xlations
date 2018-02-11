@@ -1,0 +1,1 @@
+["NHLSt", ["nhl stream", "nhlstreams kodi", "nhlstreams/reddit", "nhl stand", "nhlstreams youtube", "nhl standings 2017", "nhlstreams addon", "nhlstreams.net kodi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

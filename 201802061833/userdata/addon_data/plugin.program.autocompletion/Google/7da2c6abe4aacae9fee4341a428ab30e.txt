@@ -1,0 +1,1 @@
+[".caz", ["cazzette beam me up", "cazzette blue sky", "cazuza exagerado", "cazando payasos", "caceria de payasos", "cazadores de fantasmas", "cazador de demonios", "cazafantasmas cancion", "cazadores de sombras", "cazadores de mitos"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

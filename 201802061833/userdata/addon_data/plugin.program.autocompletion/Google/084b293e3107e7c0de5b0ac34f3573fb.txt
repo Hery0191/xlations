@@ -1,0 +1,1 @@
+["c", ["chris brown", "cardi b", "chance the rapper", "chief keef", "cookie swirl c", "coldplay", "cartoon", "closer", "collins key", "charlie puth"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

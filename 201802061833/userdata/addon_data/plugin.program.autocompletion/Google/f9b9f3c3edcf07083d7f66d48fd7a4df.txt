@@ -1,0 +1,1 @@
+["New", ["new rules", "news", "new punjabi songs", "new songs", "new music", "new york", "new movies", "new star wars trailer", "new movie trailers", "new daya"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

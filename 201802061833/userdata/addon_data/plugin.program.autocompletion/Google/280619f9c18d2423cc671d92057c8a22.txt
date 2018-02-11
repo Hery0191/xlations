@@ -1,0 +1,1 @@
+["nh", ["nhl", "nhl 18", "nhl fights", "nhl 17", "nhl 18 hut", "nhl live", "nhl hits", "nh", "nhac tre", "nhl recap"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

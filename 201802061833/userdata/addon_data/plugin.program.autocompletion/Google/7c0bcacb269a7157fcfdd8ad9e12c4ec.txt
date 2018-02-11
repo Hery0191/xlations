@@ -1,0 +1,1 @@
+[".streamar", ["como streamar", "streamar bo3 idag", "hedlund streamar", "sodastreamer", "softis streamar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+[".noobs", ["noobs vs pros", "noobs vs vip msp", "noobs raspberry pi 3", "noobs in roblox", "noobs in minecraft", "noobsandnerds kodi", "noobs gaming", "noobs vs pros msp", "noobs play minecraft", "noobs on msp"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

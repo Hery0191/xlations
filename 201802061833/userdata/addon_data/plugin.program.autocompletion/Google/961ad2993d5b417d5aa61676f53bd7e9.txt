@@ -1,0 +1,1 @@
+["Gu", ["guava juice", "gucci mane", "gummy bear", "gucci", "guess the song", "guns", "guitar", "guns and roses", "guy tang", "guardians of the galaxy"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

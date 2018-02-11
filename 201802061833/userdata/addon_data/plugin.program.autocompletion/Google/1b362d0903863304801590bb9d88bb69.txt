@@ -1,0 +1,1 @@
+["[CO", ["coldplay", "cookie swirl c", "comedy", "collins key", "complex", "colt 45", "colbert", "conan", "country", "cold water"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

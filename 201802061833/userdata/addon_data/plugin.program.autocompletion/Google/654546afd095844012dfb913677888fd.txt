@@ -1,0 +1,1 @@
+["Specto", ["spector", "specto", "specto fork", "spector gadget", "spector bass", "spector theory", "specto on kodi", "spectorman", "specto on kodi 17.3", "specto kodi 2017"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

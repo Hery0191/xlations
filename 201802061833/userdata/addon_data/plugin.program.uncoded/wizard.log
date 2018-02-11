@@ -1,0 +1,67 @@
+[2017-11-25 13:33:00] 2017-11-25 13:33:00.222203
+[2017-11-25 13:33:01] Continuing Start Up Script
+[2017-11-25 13:33:01] [Path Check] Started
+[2017-11-25 13:33:01] [Path Check] Good!
+[2017-11-25 13:33:01] [Auto Install Repo] Started
+[2017-11-25 13:33:01] [Auto Install Repo] Repository already installed
+[2017-11-25 13:33:01] [Auto Update Wizard] Started
+[2017-11-25 13:33:02] 2017-11-25 13:33:02.926288
+[2017-11-25 13:33:04] Continuing Start Up Script
+[2017-11-25 13:33:04] [Path Check] Started
+[2017-11-25 13:33:04] [Path Check] Good!
+[2017-11-25 13:33:04] [Auto Install Repo] Started
+[2017-11-25 13:33:04] [Auto Install Repo] Repository already installed
+[2017-11-25 13:33:04] [Auto Update Wizard] Started
+[2017-11-25 13:33:05] [Auto Update Wizard] No New Version vFalse
+[2017-11-25 13:33:05] [Notifications] Started
+[2017-11-25 13:33:07] [Notifications] id: 3
+[2017-11-25 13:33:07] [Auto Update Wizard] No New Version vFalse
+[2017-11-25 13:33:08] [Notifications] Started
+[2017-11-25 13:33:08] [ Version : '1.2.4' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-11-25 13:33:09] [Notifications] id: 3
+[2017-11-25 13:33:30] [Notification] NotifyID 3 Dismissed
+[2017-11-25 13:33:30] [Notifications] Complete
+[2017-11-25 13:33:30] [Installed Check] Started
+[2017-11-25 13:33:30] [Installed Check] Not Enabled
+[2017-11-25 13:33:30] [Build Check] Started
+[2017-11-25 13:33:30] [Build Check] First Run
+[2017-11-25 13:34:12] [First Run] [User Selected: Ignore Build Menu] [Next Check: 2017-11-25]
+[2017-11-25 13:34:12] [Trakt Data] Started
+[2017-11-25 13:34:12] [Trakt Data] Not Enabled
+[2017-11-25 13:34:12] [Real Debrid Data] Started
+[2017-11-25 13:34:12] [Real Debrid Data] Not Enabled
+[2017-11-25 13:34:12] [Login Data] Started
+[2017-11-25 13:34:12] [Login Data] Not Enabled
+[2017-11-25 13:34:12] [Auto Clean Up] Started
+[2017-11-25 13:34:12] [Auto Clean Up] Cache: On
+[2017-11-25 13:34:12] [Success] wiped /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/addon_data/script.module.simplecache 
+[2017-11-25 13:34:13] [Success] wiped /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-11-25 13:34:13] [Success] wiped /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/addon_data/plugin.video.xxx-o-dus/cache 
+[2017-11-25 13:34:13] [Success] wiped /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/addon_data/plugin.video.SportsDevil/cache 
+[2017-11-25 13:34:13] [Success] wiped /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/addon_data/plugin.video.sportie/cache 
+[2017-11-25 13:34:13] [Success] wiped /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/userdata/addon_data/script.mrknow.urlresolver/cache 
+[2017-11-25 13:34:13] Ignore Log File: kodi.log
+[2017-11-25 13:34:13] [Wiped] /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/temp/commoncache.db
+[2017-11-25 13:34:13] [Success] cleared 2 files from /storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/temp/temp
+[2017-11-25 13:34:13] [Auto Clean Up] Old Thumbs: On
+[2017-11-25 13:34:14] 1502 total thumbs cleaned up.
+[2017-11-25 13:34:15] [Auto Clean Up] Packages: On
+[2017-11-25 13:34:17] [Notification] NotifyID 3 Dismissed
+[2017-11-25 13:34:18] [Notifications] Complete
+[2017-11-25 13:34:18] [Installed Check] Started
+[2017-11-25 13:34:18] [Installed Check] Not Enabled
+[2017-11-25 13:34:18] [Build Check] Started
+[2017-11-25 13:34:18] [Build Check] First Run
+[2017-11-25 13:34:25] [First Run] [User Selected: Ignore Build Menu] [Next Check: 2017-11-25]
+[2017-11-25 13:34:26] [Trakt Data] Started
+[2017-11-25 13:34:26] [Trakt Data] Not Enabled
+[2017-11-25 13:34:26] [Real Debrid Data] Started
+[2017-11-25 13:34:26] [Real Debrid Data] Not Enabled
+[2017-11-25 13:34:26] [Login Data] Started
+[2017-11-25 13:34:26] [Login Data] Not Enabled
+[2017-11-25 13:34:26] [Auto Clean Up] Started
+[2017-11-25 13:34:26] [Auto Clean Up] Cache: On
+[2017-11-25 13:34:26] Ignore Log File: kodi.log
+[2017-11-25 13:34:26] [Auto Clean Up] Old Thumbs: On
+[2017-11-25 13:34:26] 0 total thumbs cleaned up.
+[2017-11-25 13:34:26] [Auto Clean Up] Packages: On

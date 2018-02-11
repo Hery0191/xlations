@@ -1,0 +1,1 @@
+[".j", [".j", ".jpg", ".jar", ".json", ".jl", ".jj", ".jimmy fallon", ".jk", ".jm", ".jg"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

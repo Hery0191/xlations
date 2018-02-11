@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d0251678155602daf3e704e8577f211321511313178; path="/"; domain=".mintmovies.net"; path_spec; domain_dot; expires="2018-11-22 01:12:58Z"; HttpOnly=None; version=0
+Set-Cookie3: __cfduid=d1a2d52579318f59928bc56adb53e901d1511313180; path="/"; domain=".mintmovies.to"; path_spec; domain_dot; expires="2018-11-22 01:13:00Z"; HttpOnly=None; version=0
+Set-Cookie3: PHPSESSID=9qej9hi7pghij7572024pg7rl5; path="/"; domain="www.mintmovies.net"; path_spec; discard; version=0
+Set-Cookie3: PHPSESSID=9qej9hi7pghij7572024pg7rl5; path="/"; domain="www.mintmovies.to"; path_spec; discard; version=0

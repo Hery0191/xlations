@@ -1,0 +1,1 @@
+["tc", ["tcs final", "tcs", "tchami", "tcs grand finals", "tcs finals game 2", "tcs finals game 3", "tcu baylor brawl", "tcbl", "tcs 2017", "tchikita"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

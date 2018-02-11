@@ -1,0 +1,1 @@
+["K", ["ksi", "karaoke", "khalid", "killy", "kesha", "kevin gates", "kiss", "kid rock", "kingsman 2", "kygo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

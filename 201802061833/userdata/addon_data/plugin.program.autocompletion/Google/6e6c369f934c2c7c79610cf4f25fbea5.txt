@@ -1,0 +1,1 @@
+["medi", ["meditation", "medicine", "media", "medicated", "medication", "medicare", "medical", "medicine meme", "medicine man", "medieval"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

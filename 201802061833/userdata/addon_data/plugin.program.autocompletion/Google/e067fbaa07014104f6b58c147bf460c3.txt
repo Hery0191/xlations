@@ -1,0 +1,1 @@
+["NHLS", ["nhl's best", "nhl's biggest hits", "nhlsongs", "nhl's best dangles", "nhls back", "nhl sportsnet", "nhl stream", "nhls", "nhl scores", "nhl's best goals"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

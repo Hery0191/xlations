@@ -1,0 +1,82 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>.tvaddons</name>
+            <path pathversion="1">http://tinyurl.com/tvaddonsco/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.caz</name>
+            <path pathversion="1">https://cazwall.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.eas</name>
+            <path pathversion="1">http://repo.hackmykodi.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.xvbmc</name>
+            <path pathversion="1">http://archive.org/download/repository.xvbmc/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.jesusbox</name>
+            <path pathversion="1">http://jesusboxrepo.xyz/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.noobsandnerds</name>
+            <path pathversion="1">http://noobsandnerds.com/portal/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.lookingglass</name>
+            <path pathversion="1">http://repo.lookingglass.rocks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.fspm</name>
+            <path pathversion="1">http://fspmkodi.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.uncoded</name>
+            <path pathversion="1">http://start.uncoded.life/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.dimitrology</name>
+            <path pathversion="1">http://dimitrology.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.blamo</name>
+            <path pathversion="1">http://blamo.teverz.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.DELIVERANCE</name>
+            <path pathversion="1">http://sport-xplosion.com/DELIVERANCE/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.addons4kodi</name>
+            <path pathversion="1">http://addons4kodi.site/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

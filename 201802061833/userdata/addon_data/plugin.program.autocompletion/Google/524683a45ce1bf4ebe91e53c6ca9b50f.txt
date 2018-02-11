@@ -1,0 +1,1 @@
+["12", ["123", "12 strong trailer", "12 strong", "1234", "12", "12 stones", "12345", "12 bricks", "127 hours", "12 angry men"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

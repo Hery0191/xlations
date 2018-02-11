@@ -1,0 +1,1 @@
+[".fspm", ["fspmi vs preman", "fspmi purwakarta", "fspmi gresik", "fspmi subang", "fspmi lagu", "mars fspmi", "fspmi surabaya", "fspmi sekawan", "fspmi magi", "fspmi karawang"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

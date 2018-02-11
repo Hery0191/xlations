@@ -1,0 +1,1 @@
+["atio", ["atio castillo hearing", "atio", "ation", "atio hearing", "atio case", "atio castillo news", "atio castillo update", "atio horacio", "atio hazing", "atio hearing in senate"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.avezy</defaultID>
+		<label>AvEZY</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.avezy%2ficon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.avezy",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.SportsDevil</defaultID>
+		<label>SportsDevil</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.SportsDevil%2ficon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.SportsDevil",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.DELIVERANCE</defaultID>
+		<label>DELIVERANCE</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.DELIVERANCE%2ficon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.DELIVERANCE",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.mic</defaultID>
+		<label>Made In Canada</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.mic%2ficon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.mic",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.ufc-finest</defaultID>
+		<label>Planet MMA</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.ufc-finest%2ficon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.ufc-finest",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.carbon-tv</defaultID>
+		<label>CarbonTV</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.carbon-tv%2ficon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.carbon-tv",return)</action>
+	</shortcut>
+</shortcuts>

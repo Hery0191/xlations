@@ -1,0 +1,6 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=dde29e6718a38375a99d955a69c8baa731511311870; path="/"; domain=".filmovizija.ws"; path_spec; domain_dot; expires="2018-11-22 00:51:10Z"; HttpOnly=None; version=0
+Set-Cookie3: PHPSESSID=3a2g241f74j5lo72qqu4qteu20; path="/"; domain="www.filmovizija.ws"; path_spec; discard; version=0
+Set-Cookie3: amazon_id=1; path="/"; domain="www.filmovizija.ws"; path_spec; expires="2017-12-23 00:35:36Z"; version=0
+Set-Cookie3: watched_video_list="MTUyNjE3LDE0NjI5MiwxMzA1OTksMTMxMjIsMTUyNjIxLDE1MjYwNQ%3D%3D"; path="/"; domain="www.filmovizija.ws"; path_spec; expires="2017-11-23 22:06:14Z"; version=0
+Set-Cookie3: firec=1; path="/movie"; domain="www.filmovizija.ws"; expires="2017-11-23 00:45:36Z"; version=0

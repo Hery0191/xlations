@@ -1,0 +1,6 @@
+My acestream channel|acestream://0b8ce9fadf9d188b69c65ddf38d1c23f34d49dab|1|/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/addons/program.plexus/resources/art/acestream-menu-item.png
+TSN 1|4e5abe370e1bfa45a5d8dfb510431b662ab90225|1|/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/addons/program.plexus/resources/art/acestream-menu-item.png
+FS 1|07a46b27a69288b964b8d149a3fb8f2a710d6688|1|/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/addons/program.plexus/resources/art/acestream-menu-item.png
+NBC HD|9038537f0767b6c1e893bed4a0ac83c5a13b70bd|1|/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/addons/program.plexus/resources/art/acestream-menu-item.png
+USA NBA: HOUSTON ROCKETS-NEW YORK KNICKS|acestream://c4a481e4e28b4c91c67147b1c37c27e96c9f35f7|1|/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/addons/program.plexus/resources/art/acestream-menu-item.png
+User ID ( 69a58dcc6f1fce43ca1dab7eccd56f66f22f345p)|69a58dcc6f1fce43ca1dab7eccd56f66f22f345p|1|/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/addons/program.plexus/resources/art/acestream-menu-item.png

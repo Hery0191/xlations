@@ -1,0 +1,1 @@
+[".noo", [".noodles", ".noor stars", ".noor jahan", "nooran sisters", "noor jahan songs", "noor e zindagi", "noodles recipe", "nooran sisters coke studio", "noor e khuda", "noor wala aya hai"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+[".dimitro", ["dimitrov nadal", "dimitrov vs nadal", "dimitrov practice", "dimitrov murray", "dimitrov forehand", "dimitrov nadal beijing", "dimitrology build", "dimitrov gasquet", "dimitrov pouille", "dimitrov vs nadal 2016"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

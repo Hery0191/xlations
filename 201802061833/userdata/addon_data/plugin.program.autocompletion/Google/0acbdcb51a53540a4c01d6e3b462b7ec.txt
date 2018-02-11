@@ -1,0 +1,1 @@
+["gre", ["green day", "great big sea", "grease", "grey's anatomy season 14", "grenade", "grey cup 2017", "gremlins", "green lantern", "greatest showman", "green light"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

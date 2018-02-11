@@ -1,0 +1,1 @@
+["Animat", ["animation", "animation meme", "animated movies", "animated", "animatic", "animatrix", "animatronics", "animated stories", "animated music video", "animated short"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

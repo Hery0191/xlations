@@ -1,0 +1,1 @@
+["Anima", ["animals", "animation", "animal jam", "animal planet", "animated", "animaniacs", "animal kingdom", "animation meme", "animal fights", "animals as leaders"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

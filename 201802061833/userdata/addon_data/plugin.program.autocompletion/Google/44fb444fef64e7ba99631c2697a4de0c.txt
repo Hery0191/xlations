@@ -1,0 +1,1 @@
+[".stream", [".steam", ".stream2watch", "streamy awards 2016", "stream live", "stream faker", "stream cnn live", "stream fox news live", "stream bjergsen", "stream live news", "streaming live election coverage"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

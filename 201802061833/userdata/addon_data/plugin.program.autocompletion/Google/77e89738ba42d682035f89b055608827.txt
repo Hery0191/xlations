@@ -1,0 +1,1 @@
+["http://repo.lookingglas", ["http //repo.lookingglass.com", "http //repo.lookingglass"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

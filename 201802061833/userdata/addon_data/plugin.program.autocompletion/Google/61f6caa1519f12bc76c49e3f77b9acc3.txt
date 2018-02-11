@@ -1,0 +1,1 @@
+["[UPPERCASE]", ["uppercase chase french", "uppercase chase arielle", "uppercase kradl", "uppercase october 2017", "uppercase l", "uppercase letter a", "uppercase letter song", "uppercase and lowercase m", "uppercase living", "uppercase e"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

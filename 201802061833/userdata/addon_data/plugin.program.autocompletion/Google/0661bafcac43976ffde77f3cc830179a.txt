@@ -1,0 +1,1 @@
+["Alza", ["alzate", "alza", "alzate mix", "alza tus ojos", "alza tus ojos y mira", "alzate 2017", "alzare", "alza la mano", "alzapua", "alzate karaoke"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

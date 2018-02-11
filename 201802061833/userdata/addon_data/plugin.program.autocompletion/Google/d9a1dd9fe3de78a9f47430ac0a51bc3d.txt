@@ -1,0 +1,1 @@
+["DISA", ["disaster artist", "disaster", "disappeared", "disarm you", "disaster movie", "disability", "disappointed", "disarm", "disabled", "disappear"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

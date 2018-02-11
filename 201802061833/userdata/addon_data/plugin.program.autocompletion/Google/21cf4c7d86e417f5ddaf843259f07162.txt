@@ -1,0 +1,1 @@
+[".addons4k", ["addons 4k", "mxq pro 4k addons", "4k movie addons", "4k tv addons"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

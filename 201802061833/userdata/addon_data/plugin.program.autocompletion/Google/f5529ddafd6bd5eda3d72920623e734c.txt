@@ -1,0 +1,1 @@
+["DISABLED", ["disabled", "disabled man drowns", "disabled people", "disabled kids", "disabled ipad", "disabled iphone", "disabled man drowns in florida", "disabled youtubers", "disabled guy", "disabled man"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

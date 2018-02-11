@@ -1,0 +1,1 @@
+["NHL", ["nhl", "nhl 18", "nhl fights", "nhl 17", "nhl 18 hut", "nhl live", "nhl hits", "nhl recap", "nhl hockey", "nhl goals"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

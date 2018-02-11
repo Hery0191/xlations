@@ -1,0 +1,1 @@
+["blu", ["blue", "blue rodeo", "blue moon", "blue eyes", "blur", "bluegrass", "blue jeans", "blue bird", "blu", "blue jays"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

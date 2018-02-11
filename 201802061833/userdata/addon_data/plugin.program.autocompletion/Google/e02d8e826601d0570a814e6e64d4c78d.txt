@@ -1,0 +1,1 @@
+["Popula", ["popular songs", "popular", "popular mmos", "popular music", "popular christmas songs", "popularmmos lucky block", "popular on youtube", "popular rap songs", "popular girls", "popular ariana grande"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

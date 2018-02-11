@@ -1,0 +1,1 @@
+["d", ["despacito", "dantdm", "drake", "deadpool 2 trailer", "david cassidy", "dna", "dragon ball super", "destiny 2", "dua lipa", "dunkey"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

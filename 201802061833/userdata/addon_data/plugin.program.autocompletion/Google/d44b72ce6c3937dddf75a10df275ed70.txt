@@ -1,0 +1,1 @@
+["Stream ATS", ["ats live stream", "neko atsume stream"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

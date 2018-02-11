@@ -1,0 +1,1 @@
+["PSports", ["sports", "sports science", "sports vines", "sports news", "sports fails", "sports tnb", "sportscenter", "sportsnation", "sports illustrated", "sports videos"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

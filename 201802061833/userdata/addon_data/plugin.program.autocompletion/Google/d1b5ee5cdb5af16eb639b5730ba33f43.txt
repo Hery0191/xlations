@@ -1,0 +1,1 @@
+["69a", ["69a laburnham ave", "69a laburnham", "69a winchester", "69a laburnham ave toronto", "69 angles", "69a", "69 angels", "69 anuel", "69a thirteenth ave tauranga", "69 amx"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

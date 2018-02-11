@@ -1,0 +1,1 @@
+["[UPPERCASE]Mma[/UPPERCASE] (1 evento", ["uppercase mma /uppercase (1 eventos)", "uppercase mma /uppercase (1 evento)"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

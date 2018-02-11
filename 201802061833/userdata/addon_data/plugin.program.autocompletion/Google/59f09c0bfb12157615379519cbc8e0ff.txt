@@ -1,0 +1,1 @@
+[".d", [".dll", ".d", ".dmg", ".dora", ".dna", ".dot", ".de", ".dance", ".drive", ".dat file"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

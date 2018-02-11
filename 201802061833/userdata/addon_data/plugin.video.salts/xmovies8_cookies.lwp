@@ -1,0 +1,6 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d2fab80168ca26178848d191e936d77911511313179; path="/"; domain=".xmovies8.org"; path_spec; domain_dot; expires="2018-11-22 01:12:59Z"; HttpOnly=None; version=0
+Set-Cookie3: PHPSESSID=e0g9duvnqfklu4jrads7cb1ms4; path="/"; domain="xmovies8.org"; path_spec; discard; version=0
+Set-Cookie3: begin_referer="https://xmovies8.org/results?q=Minions"; path="/"; domain="xmovies8.org"; path_spec; discard; version=0
+Set-Cookie3: ci_session="a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%220836b3f8b8b032af3f55c7f0c66849ac%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A9%3A%22127.0.0.1%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A74%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1511371201%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D79d1680a04fdde109ee1621cea1aa1d0"; path="/"; domain="xmovies8.org"; path_spec; expires="2019-11-22 16:14:28Z"; version=0
+Set-Cookie3: prounder=1; path="/"; domain="xmovies8.org"; path_spec; discard; version=0

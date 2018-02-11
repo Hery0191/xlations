@@ -1,0 +1,1 @@
+["g", ["gummo", "g eazy", "gta 5", "gmm", "google home", "green day", "google", "gymnastics", "guava juice", "gorillaz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

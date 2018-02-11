@@ -1,0 +1,1 @@
+["SportsDe", ["sportsdevil", "sports desk", "sportsdevil addon", "sportsdesk tsn", "sportsdevil update", "sportsdevil on kodi", "sportsdevil kodi 17.5", "sportsdevil fix", "sportsdevil october 2017", "sportsdevil kodi addon"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

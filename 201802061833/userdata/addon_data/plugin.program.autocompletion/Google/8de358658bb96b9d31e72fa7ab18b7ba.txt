@@ -1,0 +1,1 @@
+[".f", [".flow", ".flow ost", ".fun", ".facts", ".fgteev", ".flv", ".flow smile", ".flac", ".fr", ".faze rug"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

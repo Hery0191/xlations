@@ -1,0 +1,1 @@
+["http://sport-", ["http://sport-xplosion.com/deliverance/", "http://gambit-sport.pro/"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

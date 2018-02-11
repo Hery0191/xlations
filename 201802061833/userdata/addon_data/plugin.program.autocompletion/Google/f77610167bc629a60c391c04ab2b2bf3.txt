@@ -1,0 +1,1 @@
+["car", ["cardi b", "cartoon", "cars", "caroline", "cars 3", "carrie underwood", "cartoonz", "cartel de santa", "carlos santana", "cartoon network"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

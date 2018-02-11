@@ -1,0 +1,1 @@
+[".c", [".com", ".ca", ".c", ".computer", ".co", ".com/ultraw", ".cult", ".ca si bi an", ".cartoon", ".com 2"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

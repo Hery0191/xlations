@@ -1,0 +1,1 @@
+["T", ["try not to laugh", "team 10", "the weeknd", "taylor swift", "tupac", "tyler the creator", "trolls", "try not to laugh challenge", "twenty one pilots", "trey songz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["[UPPERCASE]Mma[/UPPERC", ["uppercase mma /uppercut", "uppercase mma /uppercu"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

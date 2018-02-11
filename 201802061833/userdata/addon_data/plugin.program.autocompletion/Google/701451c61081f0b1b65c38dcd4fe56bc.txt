@@ -1,0 +1,1 @@
+["gr", ["green day", "gravity falls", "grinch", "grand tour", "great big sea", "grian", "grease", "gravity", "grey's anatomy season 14", "grimes"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["[COLOR orangeGurzil", ["color orangegurzila", "color orangegurzilay"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

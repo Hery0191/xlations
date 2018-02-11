@@ -1,0 +1,1 @@
+["SLTS", ["slts", "slts cover", "slts live", "slts guitar cover", "sl song", "slts drum cover", "slts remix", "sl squat", "sl speedpaint", "sl selfie"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

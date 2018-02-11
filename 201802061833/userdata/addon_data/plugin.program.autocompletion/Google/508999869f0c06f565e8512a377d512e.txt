@@ -1,0 +1,1 @@
+["openload.co, openload.i", ["openload.co openload.ir"], [], {"google:suggesttype": ["TAIL"]}]

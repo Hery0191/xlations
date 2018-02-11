@@ -1,0 +1,1 @@
+["re", ["react", "remix", "ready for it", "real madrid", "relationship", "red", "reggae", "red nose", "reaction", "redhatter"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["New M", ["new music", "new movies", "new movie trailers", "new movies 2018", "new music videos", "new man", "new mutants", "new malayalam movie", "new movie trailers 2018", "new math"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

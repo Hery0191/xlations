@@ -1,0 +1,1 @@
+["[UPPERCASE]Soccer[/UPPERCASE] (71 event", ["uppercase soccer /uppercase (71 events)", "uppercase soccer /uppercase (71 event)"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

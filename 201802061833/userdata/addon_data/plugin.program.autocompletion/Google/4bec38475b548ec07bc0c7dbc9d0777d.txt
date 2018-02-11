@@ -1,0 +1,1 @@
+["[COLOR", ["colors", "color crew", "color song", "coloring", "colorado", "color blind", "color red", "colors of the wind", "coloring book", "color guard"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

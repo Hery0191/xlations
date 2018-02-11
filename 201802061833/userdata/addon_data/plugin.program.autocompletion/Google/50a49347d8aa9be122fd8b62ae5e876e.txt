@@ -1,0 +1,1 @@
+["SALTS", ["salts", "salt shaker", "salts kodi", "saltstack", "salt strong", "saltstraumen", "salts addon", "salts kodi 17.3", "saltstraumen maelstrom", "salt strong 123#"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

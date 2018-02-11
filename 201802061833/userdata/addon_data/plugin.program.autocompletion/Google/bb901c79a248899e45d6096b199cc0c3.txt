@@ -1,0 +1,1 @@
+[".mediare", [".medicare", "medicare made clear", "medicare supplement plans", "medicare explained", "medicare part d", "medicare advantage plans", "medicare 101", "medicare part b", "medicare advantage", "medicare vs medicaid"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

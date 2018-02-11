@@ -1,0 +1,1 @@
+["6", ["6lack", "679", "69", "666", "67", "6teen", "6 feet", "6", "6 foot 7 foot", "6 dogs"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["http", ["http", "http www google com", "http request", "https tvad pair", "http protocol", "https olpair com", "https tvad me pair", "https 192.168 ll", "http tplinkwifi net", "http vs https"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["carb", ["carbot", "carbonara", "carbon fiber", "carbon", "carb cycling", "carbon coco", "cardi b", "carbs", "carboys", "carbohydrates"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

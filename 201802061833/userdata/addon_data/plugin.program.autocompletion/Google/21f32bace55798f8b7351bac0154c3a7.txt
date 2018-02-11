@@ -1,0 +1,1 @@
+["AvEZY", ["avezy addon", "avezy kodi", "avezy repo", "avezy", "avezy kodi not working", "avezy addon kodi", "avezy not working", "avezy sports", "avezy json error"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

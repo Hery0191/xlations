@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d2965d5e55a1e718c5d0136302ab156ff1511311902; path="/"; domain=".pelispedia.co"; path_spec; domain_dot; expires="2018-11-22 00:51:42Z"; HttpOnly=None; version=0
+Set-Cookie3: __cfduid=d9db132f4b881163ff10ddb75298eb58f1511388368; path="/"; domain=".pelispedia.tv"; path_spec; domain_dot; secure; expires="2018-11-22 22:06:08Z"; HttpOnly=None; version=0
+Set-Cookie3: cf_clearance="364771f7796b73644424c23b1ed94ac0341e6dc5-1511388368-14400"; path="/"; domain=".pelispedia.tv"; path_spec; domain_dot; expires="2017-11-23 03:06:08Z"; HttpOnly=None; version=0

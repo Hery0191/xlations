@@ -1,0 +1,1 @@
+["2", ["21 savage", "2 chainz", "2pac", "2u", "21 savage issa", "2017", "22 savage", "2", "21 pilots", "2016"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

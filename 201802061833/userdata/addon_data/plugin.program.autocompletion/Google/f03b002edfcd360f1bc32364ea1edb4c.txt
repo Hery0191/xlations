@@ -1,0 +1,1 @@
+[".ca", [".ca", ".ca si bi an", ".cartoon", ".cars", ".casting", ".ca go", ".cat", ".cars 3", ".cake", ".caa"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["minion", ["minions", "minion song", "minions movie", "minions banana", "minions singing", "minion rush", "minions minions", "minions 2", "minion videos", "minions trailer"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

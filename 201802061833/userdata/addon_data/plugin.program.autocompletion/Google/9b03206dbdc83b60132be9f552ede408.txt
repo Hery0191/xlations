@@ -1,0 +1,1 @@
+[".di", [".div", ".diwali songs", ".dinosaurs", ".diggers", ".diy", "\u062c\u0648\u0632\u064a\u0647", ".dive", ".dil", ".didi", ".dilwale"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

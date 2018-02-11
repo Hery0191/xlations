@@ -1,0 +1,1 @@
+[".l", [".l", ".ll", "\u0632\u0645\u0646", ".llll", ".lo", ".love", ".lll", ".lb", ".ly", ".lil pump"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

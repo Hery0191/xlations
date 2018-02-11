@@ -1,0 +1,1 @@
+["[UPPERC", ["uppercut", "uppercut knockout", "uppercut bag", "uppercase", "uppercase 1", "uppercut remix", "uppercut hair", "uppercut test", "uppercut punch", "uppercut ko"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

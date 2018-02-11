@@ -1,0 +1,1 @@
+["https://cazwall.", ["https://cazwall.com/repo/"], [], {"google:suggesttype": ["QUERY"]}]

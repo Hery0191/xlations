@@ -1,0 +1,1 @@
+["rep", ["replay", "reputation", "repo man", "repair", "repo", "reptile", "represent", "republican", "rep", "republic"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

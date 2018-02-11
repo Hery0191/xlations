@@ -1,0 +1,1 @@
+["[C", ["chris brown", "cardi b", "chief keef", "cartoon", "coldplay", "closer", "chance the rapper", "cookie swirl c", "c", "caillou"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

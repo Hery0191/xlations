@@ -1,0 +1,1 @@
+[".strw", ["strwbryshrtkate cartoon", "strawberry shortcake", "strawberry wine", "straw dogs", "strwbryshrtkate song", "street fights", "stressed out", "strawberry fields", "strawberry jam", "strawberry swing"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["NeMovies", ["new movies", "new movies trailers", "new movies 2018", "new movies 2016", "new movies coming out", "new movies hindi", "new movies 2017 bangla", "new movies bollywood", "new movies 2017", "new movies for kids"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

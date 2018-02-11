@@ -1,0 +1,1 @@
+[".noob", ["noob from ua", "noob song", "noob saibot", "noob tube", "noob gaming", "noob vs noob", "noobs vs pros", "noob face", "noob adventures minecraft", "noob roblox"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

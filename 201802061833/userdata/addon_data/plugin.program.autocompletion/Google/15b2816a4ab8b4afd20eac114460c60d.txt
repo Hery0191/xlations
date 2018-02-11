@@ -1,0 +1,1 @@
+["[UPPERCASE]Football[/UPPERCA", ["uppercase football /uppercase"], [], {"google:suggesttype": [""]}]

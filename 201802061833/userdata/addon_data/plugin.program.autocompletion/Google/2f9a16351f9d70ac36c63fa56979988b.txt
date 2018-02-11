@@ -1,0 +1,1 @@
+["http://addon", ["http://addoncloud.org/maverick/repo", "http://addoncrop.com/youtube_video_downloader/", "http://addons.strem.io", "http://addoncrop.com", "http://addons.strem.io/"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

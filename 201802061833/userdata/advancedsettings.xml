@@ -1,0 +1,13 @@
+<!-- Created using Easy Advanced Settings addon -->
+<advancedsettings>
+    <video>
+        <ignorepercentatend>15</ignorepercentatend>
+        <ignoresecondsatstart>240</ignoresecondsatstart>
+        <playcountminimumpercent>85</playcountminimumpercent>
+    </video>
+    <network>
+        <buffermode>1</buffermode>
+        <cachemembuffersize>314572800</cachemembuffersize>
+        <readbufferfactor>4</readbufferfactor>
+    </network>
+</advancedsettings>

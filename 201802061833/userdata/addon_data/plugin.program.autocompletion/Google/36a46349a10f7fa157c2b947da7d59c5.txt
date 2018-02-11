@@ -1,0 +1,1 @@
+["t", ["thunder", "the voice", "thriller", "trump", "twice", "try guys", "try not to laugh", "tupac", "the disaster artist", "try not to sing challenge"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

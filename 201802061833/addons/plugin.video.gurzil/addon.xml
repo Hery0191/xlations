@@ -1,0 +1,26 @@
+<addon id="plugin.video.gurzil" version="4.0.3" name="[COLOR orangered][B]Gurzil[/B][/COLOR]" provider-name="apep">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.gurzil.artwork" version="1.0.5" />
+		<import addon="script.gurzil.metadata" version="1.0.0" />
+		<import addon="script.module.urlresolver" version="3.0.33" />
+		<import addon="script.module.metahandler" version="2.9.0" />
+		<import addon="script.module.requests"/>
+		<import addon="script.module.beautifulsoup"/>
+		<import addon="script.module.futures"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="gurzil.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Thank You For Installing Gurzil, Remember This Addon Scrapes Nothing Is Hosted, With That Said This Will Be A Fun Journey So Join Us As We Make This Your New Loved Addon</summary>
+		<description lang="en">[COLOR orangered][B]Welcome To Gurzil[/B][/COLOR] [CR]Watch movies and TV shows in high quality! [CR]Please note that this addon is not an official part of the Kodi media player</description>
+		<disclaimer lang="en">[COLOR yellow]The author does not host any content, nor is he affiliated with any of the content providers.[/COLOR]</disclaimer>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<news>Gurzil, Is A Fork Of A Long Lived Addon [CR]Also Credit To Lambda/Viper For Exodus [CR][CR]  I Would Like To Credit The Person Who Added The Unaired Code To Cove, As I Added It To This Fork Hope You Dont Mind Im Still Learning</news>
+	</extension>
+</addon>

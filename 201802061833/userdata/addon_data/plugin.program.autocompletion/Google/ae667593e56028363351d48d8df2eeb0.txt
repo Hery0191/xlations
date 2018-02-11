@@ -1,0 +1,1 @@
+["http://sport-ex", ["sport x botafogo neto baiano"], [], {"google:suggesttype": ["QUERY"]}]

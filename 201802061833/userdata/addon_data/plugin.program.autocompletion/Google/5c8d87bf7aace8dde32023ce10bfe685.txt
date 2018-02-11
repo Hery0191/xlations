@@ -1,0 +1,1 @@
+["Fan", ["fancy", "fantasy", "fan", "fangs", "fantano", "fantastic baby", "fantastic duo", "faneto", "fantasy music", "fantastic"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

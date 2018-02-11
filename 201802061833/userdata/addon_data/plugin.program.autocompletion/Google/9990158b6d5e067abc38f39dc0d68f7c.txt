@@ -1,0 +1,1 @@
+["b", ["bts", "beyonce", "bruno mars", "bitcoin", "barbie", "baby", "better days", "bts dna", "bob marley", "blackpink"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["ProSports", ["prosportslogic", "pro sports", "pro sports kodi 17.3", "pro sports kodi", "pro sports addon", "prosport cast", "prosportsdaily", "pro sports not working on kodi", "prosports on kodi", "prosports kodi not working"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

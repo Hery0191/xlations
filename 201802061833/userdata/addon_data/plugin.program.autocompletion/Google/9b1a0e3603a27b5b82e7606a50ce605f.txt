@@ -1,0 +1,1 @@
+["tco", ["tco", "tcob", "tchoupi", "tcou", "tcole", "tcountry", "tco switch water heater", "tcorp", "tcon", "wcoop 2017"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

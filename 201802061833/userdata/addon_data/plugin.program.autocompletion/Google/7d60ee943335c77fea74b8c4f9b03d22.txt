@@ -1,0 +1,1 @@
+["porta", ["portal", "portal 2", "portal 3", "porta dos fundos", "portable", "portal song", "portal gun", "portal 2 ending", "portal knights", "porta"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

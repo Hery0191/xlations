@@ -1,0 +1,1 @@
+["min", ["minecraft", "minions", "minecraft songs", "minnie mouse", "minecraft videos", "mine", "minecraft story mode", "mini jake paul", "minecraft story mode season 2 episode 3", "minecraft survival"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

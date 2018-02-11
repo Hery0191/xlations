@@ -1,0 +1,1 @@
+[".medi", [".meditation", ".meditation music", ".media", ".medical", ".medicine", ".medicare", ".media app", "media.net", "meditation music for positive energy", "medicated wiz khalifa hq lyrics"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

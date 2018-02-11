@@ -1,0 +1,1 @@
+["F", ["fgteev", "future", "family guy", "feels", "funny", "figures", "funny videos", "fortnite", "fails", "faded"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

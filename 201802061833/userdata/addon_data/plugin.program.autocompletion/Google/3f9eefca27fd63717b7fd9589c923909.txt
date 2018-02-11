@@ -1,0 +1,1 @@
+["Nw", ["nwa", "nwo", "nwa straight outta compton", "nw", "nwa hello", "nwa live", "nwe", "nwr", "nwa baby", "nwa album"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

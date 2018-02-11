@@ -1,0 +1,9 @@
+<settings>
+    <setting id="addon_debug" value="false" />
+    <setting id="email_prompt" value="true" />
+    <setting id="enable_dropbox" value="true" />
+    <setting id="enable_pastebin" value="true" />
+    <setting id="enable_tvaddons" value="true" />
+    <setting id="enable_ubuntu" value="true" />
+    <setting id="include_old" value="false" />
+</settings>

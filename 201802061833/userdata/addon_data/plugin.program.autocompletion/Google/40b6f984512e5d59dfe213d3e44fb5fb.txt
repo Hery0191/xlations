@@ -1,0 +1,1 @@
+["https", ["https tvad me pair", "https", "https antirevoke us vpn mobileconfig", "https /"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

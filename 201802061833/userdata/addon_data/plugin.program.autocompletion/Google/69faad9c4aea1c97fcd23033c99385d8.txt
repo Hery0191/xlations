@@ -1,0 +1,1 @@
+["des", ["despacito", "designer nimrat khaira", "destiny 2", "descendants", "destiny", "despacito remix", "descendants 2", "despacito cover", "despacito dance", "destiny 2 raid"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

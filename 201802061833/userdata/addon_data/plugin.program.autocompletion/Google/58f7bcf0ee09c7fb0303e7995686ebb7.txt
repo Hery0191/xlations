@@ -1,0 +1,1 @@
+["mi", ["migos", "minecraft", "mickey mouse", "michael jackson", "mi gente", "minions", "miguel", "mike tyson", "minecraft songs", "minnie mouse"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

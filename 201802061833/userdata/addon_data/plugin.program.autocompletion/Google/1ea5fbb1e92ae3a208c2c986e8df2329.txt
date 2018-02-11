@@ -1,0 +1,1 @@
+["G", ["guava juice", "gta 5", "gucci mane", "game of thrones", "gorillaz", "g eazy", "game grumps", "g", "g herbo", "ghost"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

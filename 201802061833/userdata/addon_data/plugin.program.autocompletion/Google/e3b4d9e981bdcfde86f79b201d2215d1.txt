@@ -1,0 +1,1 @@
+["open", ["open court", "opening", "open gym", "open arms", "open", "open secret", "open up your eyes", "open wide", "open your eyes", "open world"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

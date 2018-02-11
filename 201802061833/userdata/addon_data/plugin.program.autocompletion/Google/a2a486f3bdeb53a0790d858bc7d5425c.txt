@@ -1,0 +1,1 @@
+["http://sport-explosion.com/DELIVERANCE", [], [], {"google:suggesttype": []}]

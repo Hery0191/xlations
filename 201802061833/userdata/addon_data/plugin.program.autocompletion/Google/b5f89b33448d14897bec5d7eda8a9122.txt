@@ -1,0 +1,1 @@
+["reposito.xvbmc", ["repository.xbmc-addons-chinese-1.2.1.zip", "xbmc fusion repository", "xbmc addon repository"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

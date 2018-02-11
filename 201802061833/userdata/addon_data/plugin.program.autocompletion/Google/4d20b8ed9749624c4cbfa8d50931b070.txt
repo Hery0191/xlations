@@ -1,0 +1,1 @@
+["http://sport-explosion.com/DE", ["http //sport-explosion.com/device"], [], {"google:suggesttype": ["TAIL"]}]

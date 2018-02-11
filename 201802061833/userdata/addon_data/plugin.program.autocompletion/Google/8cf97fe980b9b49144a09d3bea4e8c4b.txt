@@ -1,0 +1,1 @@
+["[COL", ["coldplay", "collins key", "colt 45", "colbert", "cold water", "colors", "cold", "colt ford", "collider", "college"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["New Mov", ["new movies", "new movie trailers", "new movies 2018", "new movie trailers 2018", "new movie 2017", "new movies 2016", "new movie releases", "new movies for kids", "new movies hindi", "new movies full"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

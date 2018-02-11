@@ -1,0 +1,1 @@
+["portal", ["portal", "portal 2", "portal 3", "portal song", "portal gun", "portal 2 ending", "portal knights", "portal speedrun", "portal 2 song", "portal 2 trailer"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

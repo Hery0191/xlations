@@ -1,0 +1,1 @@
+["Gur", ["guru", "gurren lagann", "guren no yumiya", "guri barwaaqo", "guru mann", "gurbani", "gurdas maan", "gurren lagann ost", "guri", "girl"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

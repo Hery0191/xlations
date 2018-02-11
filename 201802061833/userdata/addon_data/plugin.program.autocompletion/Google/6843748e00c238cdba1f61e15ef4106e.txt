@@ -1,0 +1,1 @@
+["Alz", ["alzate", "alzheimer's", "alz", "alzo mi bandera", "alza", "alzo mi voz", "alzate mix", "alzheimer's association", "alzheimer's cure", "alza tus ojos"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

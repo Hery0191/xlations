@@ -1,0 +1,1 @@
+[".mediar", ["mediarakyat 2016", "mediarakyat latest 2015", "mediarama creatives", "mediareactor workstation", "media rakyat terkini", "mediarakyat live", "mediartrix super nerds", "mediartrix spring awakening", "mediariver apk", "mediarouter.home"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

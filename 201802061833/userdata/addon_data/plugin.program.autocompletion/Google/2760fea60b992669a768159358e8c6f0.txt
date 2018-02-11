@@ -1,0 +1,1 @@
+["28", ["28 days later", "28 weeks pregnant", "28 savage", "28 grams", "280z", "2814", "28 days", "280zx", "28 months later", "28 day fast"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

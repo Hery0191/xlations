@@ -1,0 +1,1 @@
+["http://ad", ["http://addmefast.com", "http://ads4btc.com/", "http://adtv.me/pair", "http //adf.1y/1i45kr", "http://adf.ly/1mivn2", "http://adf.ly/1loid2", "http://adf.ly/1ciy5r", "http://adf.ly/1hikvg", "http://adf.ly/1uqldl", "http://adf.ly/1oakeo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

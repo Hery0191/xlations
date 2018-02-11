@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d79cf71bb60feb2e88edf81286b8d8d221511311873; path="/"; domain=".cyro.se"; path_spec; domain_dot; expires="2018-11-22 00:51:13Z"; HttpOnly=None; version=0
+Set-Cookie3: __cfduid=d67d40e2849f2a8d9732bf23b7967bcca1511311874; path="/"; domain=".xpau.se"; path_spec; domain_dot; expires="2018-11-22 00:51:14Z"; HttpOnly=None; version=0
+Set-Cookie3: PHPSESSID=g231039f4a8vfcgra9ouf7u0o0; path="/"; domain="cyro.se"; path_spec; discard; version=0
+Set-Cookie3: PHPSESSID=g231039f4a8vfcgra9ouf7u0o0; path="/"; domain="xpau.se"; path_spec; discard; version=0

@@ -1,0 +1,1 @@
+["med", ["meditation", "meda", "medicine", "medusa", "media", "medicated", "medication", "meddy", "medal of honor", "medicare"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

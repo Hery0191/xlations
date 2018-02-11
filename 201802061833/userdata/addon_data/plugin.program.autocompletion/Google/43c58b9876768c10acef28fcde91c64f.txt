@@ -1,0 +1,1 @@
+["Fa", ["family guy", "fails", "faded", "fall out boy", "faze", "fallout 4", "facebook", "fast car", "fairy tail", "facts"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

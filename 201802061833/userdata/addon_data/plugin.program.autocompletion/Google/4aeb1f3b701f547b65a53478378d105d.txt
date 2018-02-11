@@ -1,0 +1,1 @@
+["[COLOR dark", ["color dark hair without bleach", "color dark hair", "color darkroom", "color dark hair light brown", "color dark blue", "color dark hair red", "color dark brown hair", "color dark green", "color dark matter", "color darker than black"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

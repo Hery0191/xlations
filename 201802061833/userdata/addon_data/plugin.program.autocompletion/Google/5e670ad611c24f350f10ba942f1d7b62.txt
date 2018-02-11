@@ -1,0 +1,1 @@
+["NHLStre", ["nhl stream", "nhlstreams kodi", "nhlstreams/reddit", "nhlstreams youtube", "nhlstreams addon", "nhlstreams.net kodi", "reddit nhlstreams"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["DISAB", ["disability", "disabled", "disable", "disabled man drowns", "disabled people", "disabled kids", "disabilities", "disable me 3", "disabled ipad", "disable bixby"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

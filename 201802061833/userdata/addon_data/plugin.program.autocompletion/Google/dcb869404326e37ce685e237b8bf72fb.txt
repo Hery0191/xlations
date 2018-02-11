@@ -1,0 +1,1 @@
+["http://repo.lookingglass.ro", ["http //repo.lookingglass.roster"], [], {"google:suggesttype": ["TAIL"]}]

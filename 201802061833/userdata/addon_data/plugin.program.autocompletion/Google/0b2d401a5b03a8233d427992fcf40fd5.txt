@@ -1,0 +1,1 @@
+["[UPPERCASE]So", ["uppercase sounds", "uppercase song", "uppercase letter song", "abc song uppercase", "uppercase lowercase song", "uppercase letter sounds", "alphabet song uppercase", "the one uppercase song"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

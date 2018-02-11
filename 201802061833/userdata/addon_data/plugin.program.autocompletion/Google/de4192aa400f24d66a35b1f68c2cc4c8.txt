@@ -1,0 +1,1 @@
+[".str", [".strip that down", ".strandberg*", ".strandberg* competition 2017", ".stitches", ".stance", ".st", ".step by step", ".stay", ".star", ".story"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,39 @@
+<settings>
+    <setting id="accache" value="true" />
+    <setting id="accrash" value="true" />
+    <setting id="acpackages" value="true" />
+    <setting id="acstartup" value="true" />
+    <setting id="acthumbs" value="false" />
+    <setting id="addoninstaller" value="false" />
+    <setting id="adult" value="false" />
+    <setting id="audio" value="true" />
+    <setting id="auto-view" value="true" />
+    <setting id="automain" value="false" />
+    <setting id="automb" value="false" />
+    <setting id="cachemb" value="0" />
+    <setting id="clearday" value="7" />
+    <setting id="featured" value="true" />
+    <setting id="github_key" value="" />
+    <setting id="hasran" value="true" />
+    <setting id="maint_check_folders" value="true" />
+    <setting id="newest" value="true" />
+    <setting id="noteImage" value="87" />
+    <setting id="noteMessage" value="The Future of Kodi Addons is Here! Over the past six months, we&apos;ve&#x0A;regained over 19 million active users who now continue to enjoy&#x0A;Kodi like nothing ever happened.&#x0A;&#x0A;Please visit the following page to discover the [COLOR white]new way to install&#x0A;Kodi addons[/COLOR], [B][COLOR white]find out which resurrected Kodi addons are safe[/COLOR][/B], and&#x0A;possibly win an NVIDIA Shield TV in the process...&#x0A;&#x0A;Important News: [B][COLOR white]https://www.tvaddons.co/futurenow[/COLOR][/B]&#x0A;&#x0A;[B][COLOR white]Take your time to read through the link above carefully[/COLOR][/B], it contains&#x0A;everything you&apos;ll need to know. Thank you for your continuous support." />
+    <setting id="noteType" value="t" />
+    <setting id="notifications-on-startup" value="false" />
+    <setting id="notify" value="1" />
+    <setting id="packagesmb" value="0" />
+    <setting id="program" value="true" />
+    <setting id="repositories" value="false" />
+    <setting id="scriptblock" value="true" />
+    <setting id="set_rtmp" value="true" />
+    <setting id="skincat" value="true" />
+    <setting id="thumbsmb" value="0" />
+    <setting id="toprepositories" value="true" />
+    <setting id="tt_togglesetting" value="false" />
+    <setting id="updated" value="true" />
+    <setting id="video" value="true" />
+    <setting id="wizardran" value="false" />
+    <setting id="world" value="true" />
+    <setting id="zip" value="Click Here" />
+</settings>

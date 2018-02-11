@@ -1,0 +1,1 @@
+["Exodus", ["exodus", "exodus kodi 17.6", "exodus wallet", "exodus live", "exodus trailer", "exodus exo", "exodus movie", "exodus song", "exodus on kodi", "exodus band"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

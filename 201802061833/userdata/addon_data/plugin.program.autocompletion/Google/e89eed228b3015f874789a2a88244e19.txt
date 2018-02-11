@@ -1,0 +1,1 @@
+["SportsDevil", ["sportsdevil", "sportsdevil addon", "sportsdevil update", "sportsdevil on kodi", "sportsdevil kodi 17.5", "sportsdevil fix", "sportsdevil october 2017", "sportsdevil kodi addon", "sportsdevil repository", "sportsdevil 17.5"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Fantas", ["fantasy", "fantastic baby", "fantastic duo", "fantasy music", "fantastic", "fantasia", "fantasy movies", "fantastic four", "fantasy footballers", "fantasy jbj"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
